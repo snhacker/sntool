@@ -1,1 +1,1 @@
-# sntool
+# sntool is easy tool
